@@ -8,6 +8,7 @@
 ## :framed_picture: Imagem do Projeto
 
 ![imagem-projeto-final](signIN.png)
+![imagem-projeto-final](signUP.png)
 
 ---
 ## :woman_technologist:  Autora
