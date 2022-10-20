@@ -10,7 +10,7 @@
 ![imagem-projeto-final](signIN.png)
 
 ---
-## :man_technologist:  Autor
+## :woman_technologist:  Autora
 
 <table class="author">
   <tr>
