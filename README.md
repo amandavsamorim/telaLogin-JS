@@ -3,7 +3,6 @@
 ## :page_facing_up: Sobre o Projeto
 - Página desenvolvida na IDE Visual Studio Code com HTML5, CSS3 e JavaScript.
 - Criada em 22/09/2022
-- Para acessar a página, <a href="https://amandavsadev.github.io/login/login">clique aqui</a>!
 ---
 ## :framed_picture: Imagens do Projeto
 
