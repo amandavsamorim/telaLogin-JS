@@ -5,7 +5,7 @@
 - Criada em 22/09/2022
 - Para acessar a página, <a href="https://amandavsadev.github.io/login/login">clique aqui</a>!
 ---
-## :framed_picture: Imagem do Projeto
+## :framed_picture: Imagens do Projeto
 
 ![imagem-projeto-final](signIN.png)
 ![imagem-projeto-final](signUP.png)
